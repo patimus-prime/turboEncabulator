@@ -1,15 +1,15 @@
 {
-  "dev": {
+  "sampledev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-monolith-dev-212150-authRole",
-      "UnauthRoleArn": "arn:aws:iam::298211271175:role/amplify-monolith-dev-212150-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::298211271175:role/amplify-monolith-dev-212150-authRole",
+      "AuthRoleName": "amplify-monolith-sampledev-02724-authRole",
+      "UnauthRoleArn": "arn:aws:iam::298211271175:role/amplify-monolith-sampledev-02724-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::298211271175:role/amplify-monolith-sampledev-02724-authRole",
       "Region": "us-west-1",
-      "DeploymentBucketName": "amplify-monolith-dev-212150-deployment",
-      "UnauthRoleName": "amplify-monolith-dev-212150-unauthRole",
-      "StackName": "amplify-monolith-dev-212150",
-      "StackId": "arn:aws:cloudformation:us-west-1:298211271175:stack/amplify-monolith-dev-212150/27500290-fb16-11ec-8c50-02258c6c3d7f",
-      "AmplifyAppId": "d31boovchuegqq"
+      "DeploymentBucketName": "amplify-monolith-sampledev-02724-deployment",
+      "UnauthRoleName": "amplify-monolith-sampledev-02724-unauthRole",
+      "StackName": "amplify-monolith-sampledev-02724",
+      "StackId": "arn:aws:cloudformation:us-west-1:298211271175:stack/amplify-monolith-sampledev-02724/13f22100-fb30-11ec-ab53-06c9c632a153",
+      "AmplifyAppId": "dipcohii8q6yk"
     }
   }
 }
