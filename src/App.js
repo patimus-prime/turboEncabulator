@@ -1,5 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Counter from './components/counter';
+
+// in the below, <Counter> etc. is auto completed and the 
+// import is added above.
+// also, that is how one calls a class, I guess. can then input
+// your arguments etc. 
+
 
 function App() {
   return (
@@ -7,8 +14,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sherlock is fat. Edit <code>src/App.js</code> and save to reload.
+          Sherlock is not that fat. Edit <code>src/App.js</code> and save to reload.
         </p>
+        <Counter></Counter>
         <a
           className="App-link"
           href="https://reactjs.org"
